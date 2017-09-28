@@ -1,0 +1,496 @@
+/* adam */
+@font-face {font-family: adam; src: url(adam.otf)}
+
+/* Angelface */
+@font-face {font-family: Angelface; src: url(Angelface.otf)}
+
+/* Ansley Display */
+@font-face {font-family: Ansley-Display-Black; src: url(Ansley%20Display-Black.ttf)}
+@font-face {font-family: Ansley-Display-Bold; src: url(Ansley%20Display-Bold.ttf)}
+@font-face {font-family: Ansley-Display-Inline; src: url(Ansley%20Display-Inline.ttf)}
+@font-face {font-family: Ansley-Display-Light; src: url(Ansley%20Display-Light.ttf)}
+@font-face {font-family: Ansley-Display-Outline; src: url(Ansley%20Display-Outline.ttf)}
+@font-face {font-family: Ansley-Display-Regular; src: url(Ansley%20Display-Regular.ttf)}
+
+/* Anton-Regular */
+@font-face {font-family: Anton-Regular; src: url(Anton-Regular.ttf)}
+
+/* ArcaMajora-Heavy */
+@font-face {font-family: ArcaMajora-Heavy; src: url(ArcaMajora-Heavy.otf)}
+@font-face {font-family: ArcaMajora-Heavy; src: url(ArcaMajora-Heavy.ttf)}
+
+/* AROLY */
+@font-face {font-family: AROLY; src: url(AROLY.ttf)}
+
+/* Atami */
+@font-face {font-family: Atami-Bold; src: url(Atami-Bold.otf)}
+@font-face {font-family: Atami-Display-Bold; src: url(Atami-Display-Bold.otf)}
+@font-face {font-family: Atami-Display-Regular; src: url(Atami-Display-Regular.otf)}
+@font-face {font-family: Atami-Regular; src: url(Atami-Regular.otf)}
+@font-face {font-family: Atami-Stencil; src: url(Atami-Stencil.otf)}
+@font-face {font-family: Atami-Stencil-Bold; src: url(Atami-Stencil-Bold.otf)}
+
+/* Atlantic_Cruise */
+@font-face {font-family: Atlantic_Crusise_Demo; src: url(Atlantic_Cruise-Demo.ttf)}
+
+/* Audrey */
+@font-face {font-family: Audrey-Bold; src: url(Audrey-Bold.otf)}
+@font-face {font-family: Audrey-BoldOblique; src: url(Audrey-BoldOblique.otf)}
+@font-face {font-family: Audrey-Medium; src: url(Audrey-Medium.otf)}
+@font-face {font-family: Audrey-MediumOblique; src: url(Audrey-MediumOblique.otf)}
+@font-face {font-family: Audrey-Normal; src: url(Audrey-Normal.otf)}
+@font-face {font-family: Audrey-NormalOblique; src: url(Audrey-NormalOblique.otf)}
+
+/* Backsoda */
+@font-face {font-family: Baksoda; src: url(Baksoda.otf)}
+
+/* BebasNeue */
+@font-face {font-family: BebasNeue-Bold; src: url(BebasNeue%20Bold.otf)}
+@font-face {font-family: BebasNeue-Book; src: url(BebasNeue%20Book.otf)}
+@font-face {font-family: BebasNeue-Light; src: url(BebasNeue%20Light.otf)}
+@font-face {font-family: BebasNeue-Regular; src: url(BebasNeue%20Regular.otf)}
+@font-face {font-family: BebasNeue-Thin; src: url(BebasNeue%20Thin.otf)}
+
+/* BIG JOHN */
+@font-face {font-family: BIG-JOHN; src: url(BIG%20JOHN.otf)}
+
+/* Blackswood */
+@font-face {font-family: Blacksword; src: url(Blacksword.otf)}
+
+/* Blenda Script */
+@font-face {font-family: Blenda-Script; src: url(Blenda%20Script.otf)}
+
+/* Bonoco */
+@font-face {font-family: Bonoco; src: url(Bonoc%C3%B4.ttf)}
+
+/* Breakable */
+@font-face {font-family: Breakable; src: url(Breakable.ttf)}
+
+/* brelarregular */
+@font-face {font-family: brelaregular; src: url(brelaregular.otf)}
+
+/* Bruss */
+@font-face {font-family: Bruss; src: url(Bruss.ttf)}
+
+/* Butler */
+@font-face {font-family: Butler_Black; src: url(Butler_Black.otf)}
+@font-face {font-family: Butler_Bold; src: url(Butler_Bold.otf)}
+@font-face {font-family: Butler_ExtraBold; src: url(Butler_ExtraBold.otf)}
+@font-face {font-family: Butler_Light; src: url(Butler_Light.otf)}
+@font-face {font-family: Butler_Medium; src: url(Butler_Medium.otf)}
+@font-face {font-family: Butler_Regular; src: url(Butler_Regular.otf)}
+@font-face {font-family: Butler_Ultra_light; src: url(Butler_Ultra_Light.otf)}
+
+/* Cabin */
+@font-face {font-family: Cabin-Bold; src: url(Cabin-Bold.otf)}
+@font-face {font-family: Cabin-BoldItalic; src: url(Cabin-BoldItalic.otf)}
+@font-face {font-family: Cabin-Italic; src: url(Cabin-Italic.otf)}
+@font-face {font-family: Cabin-Medium; src: url(Cabin-Medium.otf)}
+@font-face {font-family: Cabin-MediumItalic; src: url(Cabin-MediumItalic.otf)}
+@font-face {font-family: Cabin-Regular; src: url(Cabin-Regular.otf)}
+@font-face {font-family: Cabin-Semibold; src: url(Cabin-SemiBold.otf)}
+@font-face {font-family: Cabin-SemiboldItalic; src: url(Cabin-SemiBoldItalic.otf)}
+
+
+/* Cassual */
+@font-face {font-family: Casual-Regular; src: url(Casual-Regular.ttf)}
+
+/* Century Gothic */
+@font-face {font-family: Century-Gothic; src: url(Century%20Gothic.png)}
+
+/* Choplin */
+@font-face {font-family: Choplin-ExtraLight-DEMO; src: url(Choplin-ExtraLight-DEMO.otf)}
+@font-face {font-family: Choplin-Medium-DEMO; src: url(Choplin-Medium-DEMO.otf)}
+
+
+/* Christmas Time-Display */
+@font-face {font-family: ChristmasTime-Display; src: url(ChristmasTime-Display.otf)}
+
+/* ClementePDac */
+@font-face {font-family: ClementePDac-ExtraLight; src: url(ClementePDac-ExtraLight.ttf)}
+
+/* CocoPuff */
+@font-face {font-family: CocoPuff-Regular; src: url(CocoPuff-Regular.ttf)}
+
+/* Couture */
+@font-face {font-family: couture-bld; src: url(couture-bld.otf)}
+
+/* Coves */
+@font-face {font-family: Coves-Bold; src: url(Coves%20Bold.otf)}
+@font-face {font-family: Coves-Light; src: url(Coves%20Light.otf)}
+
+/* DroidSans */
+@font-face {font-family: DroidSans-Bold; src: url(DroidSans-Bold.ttf)}
+@font-face {font-family: DroidSans; src: url(DroidSans.ttf)}
+
+/* Elianto */
+@font-face {font-family: Elianto-Regular; src: url(Elianto-Regular.ttf)}
+
+/* etna */
+@font-face {font-family: etna-free-font; src: url(etna-free-font.otf)}
+
+/* Fabulous */
+@font-face {font-family: Fabulous_PERSONAL_USE; src: url(Fabulous_PERSONAL_USE.ttf)}
+
+/* fibre */
+@font-face {font-family: fibre-font; src: url(fibre-font.otf)}
+
+/* Glober */
+@font-face {font-family: Glober-SemiBold-Free; src: url(Glober%20SemiBold%20Free.otf)}
+@font-face {font-family: Glober-Thin-Free; src: url(Glober%20Thin%20Free.otf)}
+
+/* gotham-medium */
+@font-face {font-family: gotham-medium; src: url(gotham-medium.ttf)}
+
+/* H_HelveticaNeue Interface */
+@font-face {font-family: H_Helvetica-1; src: url(H_HelveticaNeueInterface-1.ttf)}
+@font-face {font-family: H_Helvetica-2; src: url(H_HelveticaNeueInterface-2.ttf)}
+@font-face {font-family: H_Helvetica-3; src: url(H_HelveticaNeueInterface-3.ttf)}
+@font-face {font-family: H_Helvetica-4; src: url(H_HelveticaNeueInterface-4.ttf)}
+@font-face {font-family: H_Helvetica-5; src: url(H_HelveticaNeueInterface-5.ttf)}
+@font-face {font-family: H_Helvetica-6; src: url(H_HelveticaNeueInterface-6.ttf)}
+
+/* Hamster */
+@font-face {font-family: Hamster; src: url(Hamster.otf)}
+
+/* HomepageBaukasten */
+@font-face {font-family: Homepage-Bold; src: url(HomepageBaukasten-Bold.otf)}
+@font-face {font-family: Homepage-Book; src: url(HomepageBaukasten-Book.otf)}
+
+/* Hossa */
+@font-face {font-family: Hossa-Light; src: url(Hossa-Light.otf)}
+@font-face {font-family: Hossa-Medium; src: url(Hossa-Medium.otf)}
+@font-face {font-family: HossaSoft-Light; src: url(HossaSoft-Light.otf)}
+@font-face {font-family: HossaSoft-Medium; src: url(HossaSoft-Medium.otf)}
+
+/* Hype */
+@font-face {font-family: HYPE; src: url(HYPE.ttf)}
+
+/* Jaapokki */
+@font-face {font-family: Jaapokki-Regular; src: url(Jaapokki-Regular.otf)}
+@font-face {font-family: Jaapokkienchance-Regular; src: url(Jaapokkienchance-Regular.otf)}
+@font-face {font-family: Jaapokkisubtract-Regular; src: url(Jaapokkisubtract-Regular.otf)}
+
+/* jacklane */
+@font-face {font-family: jacklane_2; src: url(jacklane_2.otf)}
+
+/* Jardin des Bermudes */
+@font-face {font-family: Jardin-des-Bermudes; src: url(Jardin%20des%20Bermudes.ttf)}
+
+/* Kaiju */
+@font-face {font-family: Kaiju-Bold; src: url(Kaiju%20Bold.ttf)}
+@font-face {font-family: Kaiju; src: url(Kaiju.ttf)}
+
+/* Kano */
+@font-face {font-family: Kano; src: url(Kano.otf)}
+
+/* Kayak Sans */
+@font-face {font-family: Kayak-Sans-Bold; src: url(Kayak%20Sans%20Bold.otf)}
+@font-face {font-family: Kayak-Sans-BoldItalic; src: url(Kayak%20Sans%20BoldItalic.otf)}
+@font-face {font-family: Kayak-Sans-Light; src: url(Kayak%20Sans%20Light.otf)}
+@font-face {font-family: Kayak-Sans-LightItalic; src: url(Kayak%20Sans%20LightItalic.otf)}
+@font-face {font-family: Kayak-Sans-Regular; src: url(Kayak%20Sans%20Regular.otf)}
+@font-face {font-family: Kayak-Sans-RegularItalic; src: url(Kayak%20Sans%20RegularItalic.otf)}
+
+/* KH-Metropolis */
+@font-face {font-family: KH-Metropolis; src: url(KH-Metropolis.ttf)}
+
+/* Kirvy */
+@font-face {font-family: Kirvy-Bold; src: url(Kirvy-Bold.otf)}
+@font-face {font-family: Kirvy-Light; src: url(Kirvy-Light.otf)}
+@font-face {font-family: Kirvy-Regular; src: url(Kirvy-Regular.otf)}
+@font-face {font-family: Kirvy-Thin; src: url(Kirvy-Thin.otf)}
+
+/* Laila */
+@font-face {font-family: Laila-Bold; src: url(Laila-Bold.ttf)}
+@font-face {font-family: Laila-Light; src: url(Laila-Light.ttf)}
+@font-face {font-family: Laila-Medium; src: url(Laila-Medium.ttf)}
+@font-face {font-family: Laila-Regular; src: url(Laila-Regular.ttf)}
+@font-face {font-family: Laila-SemiBold; src: url(Laila-SemiBold.ttf)}
+
+/* LANECANE */
+@font-face {font-family: LANECANE; src: url(LANECANE.ttf)}
+
+/* LANENAR_ */
+@font-face {font-family: LANENAR_; src: url(LANENAR_.ttf)}
+
+/* LANEPOSH */
+@font-face {font-family: LANEPOSH; src: url(LANEPOSH.ttf)}
+
+/* LANEUP_ */
+@font-face {font-family: LANEUP__; src: url(LANEUP__.ttf)}
+
+/* Lazer84 */
+@font-face {font-family: Lazer84; src: url(Lazer84.ttf)}
+
+/* leafy */
+@font-face {font-family: Leafy; src: url(leafy.otf)}
+
+/* LeagueGothic */
+@font-face {font-family: LeagueGothic-Regular; src: url(LeagueGothic-Regular.otf)}
+@font-face {font-family: LeagueGothic-CondensedRegular; src: url(LeagueGothic-CondensedRegular.otf)}
+@font-face {font-family: LeagueGothic-Italic; src: url(LeagueGothic-Italic.otf)}
+@font-face {font-family: LeagueGothic-CondensedItalic; src: url(LeagueGothic-CondensedItalic.otf)}
+
+/* Lena */
+@font-face {font-family: Lena; src: url(Lena.ttf)}
+
+/* LevSerif */
+@font-face {font-family: LevSerif-BlackDistressed; src: url(LevSerif-BlackDistressed.otf)}
+
+/* Luxia */
+@font-face {font-family: Luxia-Display; src: url(Luxia-Display.otf)}
+@font-face {font-family: Luxia-Regular; src: url(Luxia-Regular.otf)}
+
+/* Memories */
+@font-face {font-family: Memories; src: url(Memories.ttf)}
+
+/* Merriweather */
+@font-face {font-family: Merriweather-Light; src: url(Merriweather%20Light.ttf)}
+@font-face {font-family: Merriweather-UltraBold; src: url(Merriweather%20UltraBold.ttf)}
+@font-face {font-family: Merriweather-Bold; src: url(Merriweather-Bold.ttf)}
+@font-face {font-family: Merriweather-BoldIt; src: url(Merriweather-BoldIt.ttf)}
+@font-face {font-family: Merriweather-Italic; src: url(Merriweather-Italic.ttf)}
+@font-face {font-family: Merriweather-LightIt; src: url(Merriweather-LightIt.ttf)}
+@font-face {font-family: Merriweather-Regular; src: url(Merriweather-Regular.ttf)}
+@font-face {font-family: Merriweather-UltraBdIt; src: url(Merriweather-UltraBdIt.ttf)}
+
+/* MODERNE SANS */
+@font-face {font-family: MODERNE-SANS; src: url(MODERNE%20SANS.ttf)}
+
+/* Molleat */
+@font-face {font-family: Molleat-Italic; src: url(Molleat%20Italic.otf)}
+
+/* Monad */
+@font-face {font-family: Monad; src: url(Monad.otf)}
+
+/* monotonia */
+@font-face {font-family: monotonia; src: url(monotonia.otf)}
+
+/* Montage */
+@font-face {font-family: Montaga-Regular; src: url(Montaga-Regular.ttf)}
+
+/* Montserrat */
+@font-face {font-family: Montserrat-Black; src: url(Montserrat-Black.ttf)}
+@font-face {font-family: Montserrat-BlackItalic; src: url(Montserrat-BlackItalic.ttf)}
+@font-face {font-family: Montserrat-Bold; src: url(Montserrat-Bold.ttf)}
+@font-face {font-family: Montserrat-BoldItalic; src: url(Montserrat-BoldItalic.ttf)}
+@font-face {font-family: Montserrat-ExtraBold; src: url(Montserrat-ExtraBold.ttf)}
+@font-face {font-family: Montserrat-ExtraBoldItalic; src: url(Montserrat-ExtraBoldItalic.ttf)}
+@font-face {font-family: Montserrat-ExtraLight; src: url(Montserrat-ExtraLight.ttf)}
+@font-face {font-family: Montserrat-ExtraLightItalic; src: url(Montserrat-ExtraLightItalic.ttf)}
+@font-face {font-family: Montserrat-Italic; src: url(Montserrat-Italic.ttf)}
+@font-face {font-family: Montserrat-Light; src: url(Montserrat-Light.ttf)}
+@font-face {font-family: Montserrat-LightItalic; src: url(Montserrat-LightItalic.ttf)}
+@font-face {font-family: Montserrat-Medium; src: url(Montserrat-Medium.ttf)}
+@font-face {font-family: Montserrat-MediumItalic; src: url(Montserrat-MediumItalic.ttf)}
+@font-face {font-family: Montserrat-Regular; src: url(Montserrat-Regular.ttf)}
+@font-face {font-family: Montserrat-SemiBold; src: url(Montserrat-SemiBold.ttf)}
+@font-face {font-family: Montserrat-SemiBoldItalic; src: url(Montserrat-SemiBoldItalic.ttf)}
+@font-face {font-family: Montserrat-Thin; src: url(Montserrat-Thin.ttf)}
+@font-face {font-family: Montserrat-ThinItalic; src: url(Montserrat-ThinItalic.ttf)}
+
+/* Moon */
+@font-face {font-family: Moon-Bold; src: url(Moon%20Bold.otf)}
+@font-face {font-family: Moon-Light; src: url(Moon%20Light.otf)}
+
+
+/* Mosk */
+
+@font-face {font-family: Mosk-Thin; src: url(Mosk%20Thin%20100.ttf)}
+@font-face {font-family: Mosk-Extra-Light; src: url(Mosk%20Extra-Light%20200.ttf)}
+@font-face {font-family: Mosk-Light; src: url(Mosk%20Light%20300.ttf)}
+@font-face {font-family: Mosk-Normal; src: url(Mosk%20Normal%20400.ttf)}
+@font-face {font-family: Mosk-Medium; src: url(Mosk%20Medium%20500.ttf)}
+@font-face {font-family: Mosk-SemiBold; src: url(Mosk%20Semi-Bold%20600.ttf)}
+@font-face {font-family: Mosk-Bold; src: url(Mosk%20Bold%20700.ttf)}
+@font-face {font-family: Mosk-Extra-Bold; src: url(Mosk%20Extra-Bold%20800.ttf)}
+@font-face {font-family: Mosk-Ultra-Bold; src: url(Mosk%20Ultra-Bold%20900.ttf)}
+
+/* Neon */
+@font-face {font-family: Neon; src: url(Neon.ttf)}
+
+/* Noir */
+@font-face {font-family: Noir_regular; src: url(Noir_regular.otf)}
+@font-face {font-family: Noir-medium; src: url(Noir_medium.otf)}
+
+/* North */
+@font-face {font-family: North; src: url(North.otf)}
+
+/* Noway */
+@font-face {font-family: Noway-Regular; src: url(Noway-Regular.otf)}
+@font-face {font-family: Noway_Regular_Italic; src: url(Noway_Regular_Italic.otf)}
+
+/* Nunito */
+@font-face {font-family: Nunito-Black; src: url(Nunito-Black.ttf)}
+@font-face {font-family: Nunito-BlackItalic; src: url(Nunito-BlackItalic.ttf)}
+@font-face {font-family: Nunito-Bold; src: url(Nunito-Bold.ttf)}
+@font-face {font-family: Nunito-BoldItalic; src: url(Nunito-BoldItalic.ttf)}
+@font-face {font-family: Nunito-ExtraBold; src: url(Nunito-ExtraBold.ttf)}
+@font-face {font-family: Nunito-ExtraBoldItalic; src: url(Nunito-ExtraBoldItalic.ttf)}
+@font-face {font-family: Nunito-ExtraLight; src: url(Nunito-ExtraLight.ttf)}
+@font-face {font-family: Nunito-ExtraLightItalic; src: url(Nunito-ExtraLightItalic.ttf)}
+@font-face {font-family: Nunito-Italic; src: url(Nunito-Italic.ttf)}
+@font-face {font-family: Nunito-Light; src: url(Nunito-Light.ttf)}
+@font-face {font-family: Nunito-LightItalic; src: url(Nunito-LightItalic.ttf)}
+@font-face {font-family: Nunito-Regular; src: url(Nunito-Regular.ttf)}
+@font-face {font-family: Nunito-SemiBold; src: url(Nunito-SemiBold.ttf)}
+@font-face {font-family: Nunito-SemiBoldItalic; src: url(Nunito-SemiBoldItalic.ttf)}
+
+/* OPTIRussian-Gothic */
+@font-face {font-family: OPTIRussian-Gothic; src: url(OPTIRussian-Gothic.otf)}
+
+/* Oxygen */
+@font-face {font-family: Oxygen; src: url(Oxygen.otf)}
+@font-face {font-family: Oxygen-Bold; src: url(Oxygen-Bold.otf)}
+@font-face {font-family: Oxygen-BoldItalic; src: url(Oxygen-BoldItalic.otf)}
+@font-face {font-family: Oxygen-Italic; src: url(Oxygen-Italic.otf)}
+
+
+/* PajamaPants */
+@font-face {font-family: PajamaPants; src: url(PajamaPants.ttf)}
+@font-face {font-family: PajamaPantsBold; src: url(PajamaPantsBold.ttf)}
+@font-face {font-family: PajamaPantsBoldItalic; src: url(PajamaPantsBoldItalic.ttf)}
+@font-face {font-family: PajamaPantsItalic; src: url(PajamaPantsItalic.ttf)}
+@font-face {font-family: PajamaPantsLight; src: url(PajamaPantsLight.ttf)}
+@font-face {font-family: PajamaPantsLightItalic; src: url(PajamaPantsLightItalic.ttf)}
+@font-face {font-family: PajamaPantsXBold; src: url(PajamaPantsXBold.ttf)}
+@font-face {font-family: PajamaPantsXBoldItalic; src: url(PajamaPantsXBoldItalic.ttf)}
+
+
+/* Panama */
+@font-face {font-family: Panama-Light; src: url(Panama-Light.otf)}
+
+/* PARABOLA */
+@font-face {font-family: PARABOLA-Regular; src: url(PARABOLA-Regular.otf)}
+
+/* Peace Sans */
+@font-face {font-family: Peace-Sans; src: url(Peace%20Sans.otf)}
+
+/* Peenu */
+@font-face {font-family: Peenu; src: url(Peenu.otf)}
+
+/* Plume-free-brush-font */
+@font-face {font-family: Plume-brush; src: url(Plume-free-brush-font.otf)}
+
+/* Polya */
+@font-face {font-family: POLYA; src: url(POLYA.otf)}
+
+/* Prosima Nova */
+@font-face {font-family: ProximaNova-Regular; src: url(ProximaNova-Regular.otf)}
+@font-face {font-family: Proxima-Nova-Alt-Regular; src: url(Proxima%20Nova%20Alt%20Regular.otf)}
+
+/* Quest */
+@font-face {font-family: Quest; src: url(Quest.ttf)}
+
+/* Quicksand */
+@font-face {font-family: Quicksand-Bold; src: url(Quicksand-Bold.ttf)}
+@font-face {font-family: Quicksand-Light; src: url(Quicksand-Light.ttf)}
+@font-face {font-family: Quicksand-Medium; src: url(Quicksand-Medium.ttf)}
+@font-face {font-family: Quicksand-Regular; src: url(Quicksand-Regular.ttf)}
+@font-face {font-family: Quicksand_Bold; src: url(Quicksand_Bold.otf)}
+
+/* Quito */
+@font-face {font-family: Quito; src: url(Quito.otf)}
+
+/* Qurany */
+@font-face {font-family: Qurany; src: url(Qurany.ttf)}
+@font-face {font-family: Qurany-light; src: url(Qurany-light.ttf)}
+@font-face {font-family: Qurany-light-italic; src: url(Qurany-light-italic.ttf)}
+@font-face {font-family: Qurany-italic; src: url(Qurany-italic.ttf)}
+
+/* Raleway */
+@font-face {font-family: Raleway-Black; src: url(Raleway-Black.ttf)}
+@font-face {font-family: Raleway-BlackItalic; src: url(Raleway-BlackItalic.ttf)}
+@font-face {font-family: Raleway-Bold; src: url(Raleway-Bold.ttf)}
+@font-face {font-family: Raleway-BoldItalic; src: url(Raleway-BoldItalic.ttf)}
+@font-face {font-family: Raleway-ExtraBold; src: url(Raleway-ExtraBold.ttf)}
+@font-face {font-family: Raleway-ExtraBoldItalic; src: url(Raleway-ExtraBoldItalic.ttf)}
+@font-face {font-family: Raleway-ExtraLight; src: url(Raleway-ExtraLight.ttf)}
+@font-face {font-family: Raleway-ExtraLightItalic; src: url(Raleway-ExtraLightItalic.ttf)}
+@font-face {font-family: Raleway-Italic; src: url(Raleway-Italic.ttf)}
+@font-face {font-family: Raleway-Light; src: url(Raleway-Light.ttf)}
+@font-face {font-family: Raleway-LightItalic; src: url(Raleway-LightItalic.ttf)}
+@font-face {font-family: Raleway-Medium; src: url(Raleway-Medium.ttf)}
+@font-face {font-family: Raleway-MediumItalic; src: url(Raleway-MediumItalic.ttf)}
+@font-face {font-family: Raleway-Regular; src: url(Raleway-Regular.ttf)}
+@font-face {font-family: Raleway-Semibold; src: url(Raleway-SemiBold.ttf)}
+@font-face {font-family: Raleway-SemiBoldItalic; src: url(Raleway-SemiBoldItalic.ttf)}
+@font-face {font-family: Raleway-Thin; src: url(Raleway-Thin.ttf)}
+@font-face {font-family: Raleway-ThinItalic; src: url(Raleway-ThinItalic.ttf)}
+
+/* Reckless */
+@font-face {font-family: Reckless; src: url(Reckless.otf)}
+/* Reef */
+@font-face {font-family: Reef; src: url(Reef.otf)}
+/* REVOLUTION */
+@font-face {font-family: REVOLUTION; src: url(REVOLUTION.ttf)}
+/* RifficFree */
+@font-face {font-family: Riffic-Bold; src: url(RifficFree-Bold.ttf)}
+/* Roboto */
+@font-face {font-family: Roboto-Black; src: url(Roboto-Black.ttf)}
+@font-face {font-family: Roboto-BlackItalic; src: url(Roboto-BlackItalic.ttf)}
+@font-face {font-family: Roboto-Bold; src: url(Roboto-Bold.ttf)}
+@font-face {font-family: Roboto-BoldItalic; src: url(Roboto-BoldItalic.ttf)}
+@font-face {font-family: Roboto-Italic; src: url(Roboto-Italic.ttf)}
+@font-face {font-family: Roboto-Light; src: url(Roboto-Light.ttf)}
+@font-face {font-family: Roboto-LightItalic; src: url(Roboto-LightItalic.ttf)}
+@font-face {font-family: Roboto-Medium; src: url(Roboto-Medium.ttf)}
+@font-face {font-family: Roboto-MediumItalic; src: url(Roboto-MediumItalic.ttf)}
+@font-face {font-family: Roboto-Regular; src: url(Roboto-Regular.ttf)}
+@font-face {font-family: Roboto-Thin; src: url(Roboto-Thin.ttf)}
+@font-face {font-family: Roboto-ThinItalic; src: url(Roboto-ThinItalic.ttf)}
+
+/* Rockit */
+@font-face {font-family: Rockit; src: url(Rockit.ttf)}
+
+/* Rounds Black */
+@font-face {font-family: Rounds-Black; src: url(Rounds%20Black.otf)}
+
+/* SIMPLIFICA */
+@font-face {font-family: SIMPLIFICA; src: url(SIMPLIFICA%20Typeface.ttf)}
+
+/* Slim Joe */
+@font-face {font-family: SLIM-JOE; src: url(Slim%20Joe.otf)}
+
+/* Somantic */
+@font-face {font-family: Somatic-Rounded; src: url(Somatic-Rounded.otf)}
+
+/* Sonder */
+@font-face {font-family: SonderSans-Black; src: url(SonderSans-Black.otf)}
+@font-face {font-family: SonderSans-BlackRought; src: url(SonderSans-BlackRough.otf)}
+@font-face {font-family: SonderSlab-Black; src: url(SonderSlab-Black.otf)}
+@font-face {font-family: SonderSlab-BlackRough; src: url(SonderSlab-BlackRough.otf)}
+
+/* Starway */
+@font-face {font-family: Starway; src: url(Starway.otf)}
+@font-face {font-family: Starway-Bold; src: url(Starway-Bold.otf)}
+@font-face {font-family: Starway-Light; src: url(Starway-Light.otf)}
+
+/* SUNN */
+@font-face {font-family: SUNN; src: url(SUNN.otf)}
+
+/* tangak */
+@font-face {font-family: tangak; src: url(tangak.otf)}
+
+/* THE MINION */
+@font-face {font-family: THE-MINION; src: url(THE%20MINION.ttf)}
+
+/* unkoi8b */
+@font-face {font-family: unkoi8b; src: url(unkoi8b.ttf)}
+
+/* VeniceSeriff */
+@font-face {font-family: VeniceSerif-Regular; src: url(VeniceSerif-Regular.otf)}
+@font-face {font-family: VeniceSerif-RegularItalic; src: url(VeniceSerif-RegularItalic.otf)}
+
+/* Waffle */
+@font-face {font-family: Waffle; src: url(Waffle.otf)}
+
+/* Womby */
+@font-face {font-family: Womby-Regular; src: url(Womby-Regular.otf)}
+
+/* ZefaniStencil */
+@font-face {font-family: ZefaniStencil-Regular; src: url(ZefaniStencil-Regular.otf)}
+
+/* Zimbra */
+@font-face {font-family: Zimbra-Bold; src: url(Zimbra-Bold.otf)}
